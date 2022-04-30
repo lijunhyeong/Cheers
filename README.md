@@ -8,7 +8,7 @@
 * ##### 여러 일 때문에 답답한 현실, 집에서 혼술하는 순간은 외롭기도 하죠.
 * ##### 누군가와 함께 건배하는 소리만 있어도 외로움이 덜 수 있지 않을까요?    
 * ##### Cheers! 랜선 술자리에서도 모임을 활력있게 만들어요!
-* ##### COVID-19는 우리나라만 겪고 있는 어려움이 아니기 때문에 모두가 힘냈으면 하는 마음에서 25개국으로 번역을 했습니다.  
+* ##### COVID-19는 우리나라만 겪고 있는 어려움이 아니기 때문에 모두가 힘냈으면 하는 마음에서 25개국 언어를 번역하였습니다.  
 * ##### "These days, you may be feeling lonely due to drinking alone in your house" Providing you with the second-hand experience of being together will console your loneliness. Cheers! Let's make our time alone more energetic!"
 
 ## 3. 화면 시연  
