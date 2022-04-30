@@ -11,4 +11,5 @@
 * ##### "These days, you may be feeling lonely due to drinking alone in your house" Providing you with the second-hand experience of being together will console your loneliness. Cheers! Let's make our time alone more energetic!"
 
 ## 3. 화면 시연
+![ezgif com-gif-maker-min](https://user-images.githubusercontent.com/72978589/166098932-0de248a1-26ea-47e8-b3b2-2b733782f0ae.gif)
 
