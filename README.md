@@ -1,6 +1,7 @@
 # 짠! Cheers! - 원격 모임, 혼술  
 ## 1. Intro  
 <img src="https://user-images.githubusercontent.com/72978589/166099039-83589fc9-0b49-44b9-85e0-0e5d3b49a59d.png" width="40%" height="20%" >  
+
 * #### 배포 링크: https://play.google.com/store/apps/details?id=com.juncheers.cheers  
 
 ## 2. 앱 소개  
