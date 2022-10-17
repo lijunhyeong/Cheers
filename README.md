@@ -15,6 +15,6 @@
 ## 4. 화면 시연  
 <img src="https://user-images.githubusercontent.com/72978589/166098932-0de248a1-26ea-47e8-b3b2-2b733782f0ae.gif" width="200" height="380" >  
 
-## 5. +Update
+## 5. Update
 * Chatting, Login
 <img src="https://user-images.githubusercontent.com/72978589/196218458-86918a0b-1b7d-4244-8916-9e68b6b1a499.png" width="200" height="380" >  
