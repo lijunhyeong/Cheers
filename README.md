@@ -2,7 +2,7 @@
 ## 1. Intro  
 <img src="https://user-images.githubusercontent.com/72978589/166099039-83589fc9-0b49-44b9-85e0-0e5d3b49a59d.png" width="45%" height="25%" >  
 
-* #### 배포 링크: https://play.google.com/store/apps/details?id=com.juncheers.cheers  
+### [플레이스토어 바로가기](https://play.google.com/store/apps/details?id=com.juncheers.cheers) 
 
 ## 2. 앱 소개
 * ##### [앱 소개 PPT 보러가기](https://github.com/lijunhyeong/Cheers/wiki/%EC%95%B1-%EC%86%8C%EA%B0%9C-PPT)     
